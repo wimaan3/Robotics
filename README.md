@@ -1,2 +1,2 @@
-# robotics
+# Robotics
 Repository for Robotics Projects
